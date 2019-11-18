@@ -1,0 +1,1 @@
+{"jobID":"dc109ed0-cf6d-8432-c630-987267abaf0b","spec":{"type":"policy","cause":{"Message":"","User":"Victor Velasquez \u003cdataholder@serespecial.co\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
